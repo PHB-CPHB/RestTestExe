@@ -1,0 +1,7 @@
+errorhandling/NumberFormatExceptionMapper.class
+dto/CalculationResult.class
+calc/Calculator.class
+rest/CalculatorService.class
+errorhandling/GeneralExceptionMapper.class
+rest/ApplicationConfig.class
+errorhandling/ErrorMessage.class
